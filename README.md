@@ -1,4 +1,4 @@
-# Hi there, I'm Likhitha Medavarapu! 👋
+# Hi there, I'm Likhitha Medavarapu! 👋 
 
 🚀 Aspiring Java Developer | Full-Stack Enthusiast | Machine Learning Learner
 
