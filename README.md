@@ -1,6 +1,6 @@
 # Hi there, I'm Likhitha Medavarapu! 👋 
 
-🚀 Aspiring Java Developer | Full-Stack Enthusiast | Machine Learning Learner
+🚀 Aspiring Java Developer | Full-Stack Enthusiast 
 
 ## About Me
 I am a passionate Computer Science student at Vardhaman College of Engineering, Hyderabad, with a strong foundation in programming, web development, and cloud technologies.  My interests lie in web development, cloud computing, DSA, and machine learning.
@@ -9,28 +9,21 @@ I am a passionate Computer Science student at Vardhaman College of Engineering, 
 - **Programming Languages:** C, Python, Java
 - **Web Development:** HTML5, CSS3, JavaScript, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
-- **Cloud Technologies:** AWS
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Linux, Windows
 - **Relevant Courses:** Computer Networks, Object-Oriented Programming, Operating Systems, DBMS, DSA, Machine Learning
 
 ## 💼 Experience
-### Front-end Development Intern @ Cognifyz Technologies *(May 2024 – Jun 2024)*
-- Built a responsive webpage using Bootstrap.
-- Integrated APIs for dynamic content and improved UI design.
-
-### Case Study Implementation @ MassMutual, India *(Aug 2024 – Oct 2024)*
-- Hosted AWS instances on Ubuntu AMI.
-- Set up Jenkins and deployed a website using Docker containers and GitHub.
-
-### AI/ML Internship @ NIELIT Virtual Academy *(Aug 2024 – Oct 2024)*
-- Completed an 8-week training program in AI, ML, Deep Learning.
-- Developed a project at the end of the program.
+**Frontend Developer Intern** — Ceeras IT Services (Virtual)  
+*Feb 2025 – Jun 2025*  
+- Built a responsive Task Notes Manager using HTML, CSS, JavaScript and Bootstrap with features to add, edit, delete and categorize tasks.
+**Case Study Implementation** — MassMutual, Hyderabad  
+*Aug 2024 – Oct 2024*  
+- Hosted AWS instances on Ubuntu AMI, set up Jenkins, and deployed a website inside Docker containers pulling code from GitHub.
 
 ## 🏗 Projects
-- **Movie Recommendation System** *(Nov 2024)* - Built a content-based recommendation system using cosine similarity.
-- **Amazon Shopping Clone** *(Sept 2023)* - Developed an Amazon homepage clone using HTML and CSS.
-- **Basic Banking Application** *(Jan 2023)* - Implemented account creation, deposits, and withdrawals using hash tables.
+**Movie Recommendation System (Machine Learning)** — Nov 2024  
+- Built a content-based movie recommender using cosine-similarity to suggest similar movies based on user input.
+**Basic Banking Application (Data Structures)** — Jan 2024  
+- Implemented account creation, deposits, withdrawals and balance checks using hash table data structures.
 
 ## 🌟 Achievements & Activities
 - Organized a **Technical Event** (Programming Quiz) at VCE *(Aug 2024)*.
