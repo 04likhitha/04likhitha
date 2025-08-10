@@ -1,6 +1,6 @@
 # Hi there, I'm Likhitha Medavarapu! 👋 
 
-🚀 Aspiring Java Developer | Full-Stack Enthusiast 
+🚀 Aspiring Java Developer | Full-Stack Enthusiast
 
 ## About Me
 I am a passionate Computer Science student at Vardhaman College of Engineering, Hyderabad, with a strong foundation in programming, web development, and cloud technologies.  My interests lie in web development, cloud computing, DSA, and machine learning.
